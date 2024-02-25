@@ -6,7 +6,7 @@ order: 4
 
 #### Hi there,
 
-I'm a Network Engineer with a couple of years under my belt working at both Enterprise and MSP level.
+I'm a Network Engineer with a couple of years under my belt working at both Enterprise and MSP levels.
 
 These days I spend a lot more time exploring the world of NetOps as well as Infrastructure as Code(Iac). I occasionally teach topics with practical demonstrations on my [youtube](https://www.youtube.com/@chidiejimonu) channel.
 
