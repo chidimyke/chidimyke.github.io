@@ -16,7 +16,7 @@ timezone: Europe/London
 
 title: Chidi Ejimonu # the main title
 
-tagline: Network Engineer | NetDevOps | Digital design and development discourse # it will display as the sub-title
+tagline: Network Engineer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Chidi Ejimonu, Network Engineering, NetOps, Cisco, Python, JavaScript, FullStack
