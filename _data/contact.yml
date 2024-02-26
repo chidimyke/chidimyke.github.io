@@ -1,5 +1,9 @@
 #  The contact options.
 
+- type: links
+  icon: "fa-solid fa-link"
+  url: "https://linktr.ee/chidiejimonu"
+
 - type: github
   icon: "fab fa-github"
 
