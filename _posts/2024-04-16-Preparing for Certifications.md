@@ -1,6 +1,6 @@
 ---
 title: Preparing for Certifications
-date: 2024-04-15 10:00:00 +0000
+date: 2024-04-16 10:00:00 +1000
 categories: [Life, Career]
 tags: [reflection] # TAG names should always be lowercase
 ---
@@ -19,7 +19,7 @@ This is a free software made by CISCO which you can get by signing up with the n
 
 ### Pearson CCNA Simulator
 
-💡 <!--image here-->
+💡 <!---image here--->
 
 I discovered this one much later in my ccna studies and I was impressed. It comes with preset network topologies that let you practice all the topics that require you to ‘’Configure and verify’’. I find this to be important as it lets you focus on what CISCO expects you to know with respect to device and service configuration.
 
