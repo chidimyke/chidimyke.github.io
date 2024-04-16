@@ -1,6 +1,6 @@
 ---
 title: Preparing for Certifications
-date: 2024-04-16 10:00:00 +0000
+date: 2024-04-15 10:00:00 +0000
 categories: [Life, Career]
 tags: [reflection] # TAG names should always be lowercase
 ---
