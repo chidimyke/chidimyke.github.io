@@ -2,7 +2,7 @@
 title: Preparing for Certifications
 date: 2024-04-16 10:00:00 +0000
 categories: [Life, Career]
-tags: [Reflection] # TAG names should always be lowercase
+tags: [reflection] # TAG names should always be lowercase
 ---
 
 If you are studying for IT certifications like the CCNA you will quickly find out how overwhelming it can be. I learned better by using a hands-on approach. This way I got to see these concepts play out before my own eyes, thereby retaining more as the topics got more complicated. I will highlight the tools and approaches I took to gain practical experience during my studies.
